@@ -1,1 +1,2 @@
-# ToyProject-StudyCafe-Kosk
+# Kiosk-front
+Kiosk-front
